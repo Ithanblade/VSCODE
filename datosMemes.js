@@ -1,5 +1,4 @@
 //Ithan Camacho
-
 const obtenerMemes = async () => {
 
     const memesContainers = document.getElementById('list-memes');
