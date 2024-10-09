@@ -1,5 +1,4 @@
 //Ithan Camacho
-
 let url = "https://jsonplaceholder.typicode.com/users";
 
 const obtenerUsaurios = async () => {
