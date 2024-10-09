@@ -1,5 +1,4 @@
 //Ithan Camacho
-
 const consultarPokemon = (id, number) => {
     fetch(`https://pokeapi.co/api/v2/pokemon/${id}`)
         .then(response => {
